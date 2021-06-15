@@ -158,19 +158,24 @@ At last we've created a Topic Model using LDA algorithm and generated 30 topics 
 * Those are the tagclouds from some topics:
 
 
-
-
+<div align="center">
+<img src="https://github.com/ggnicolau/Project-8-Capricho/blob/main/visualizations/capricho_filter_full_clean4.png">
+<img src="https://github.com/ggnicolau/Project-8-Capricho/blob/main/visualizations/capricho_filter_full_clean17.png">
+<img src="https://github.com/ggnicolau/Project-8-Capricho/blob/main/visualizations/capricho_filter_full_clean22.png">
+<img src="https://github.com/ggnicolau/Project-8-Capricho/blob/main/visualizations/capricho_filter_full_clean23.png">
+<img src="https://github.com/ggnicolau/Project-8-Capricho/blob/main/visualizations/capricho_filter_full_clean26.png">
+<img src="https://github.com/ggnicolau/Project-8-Capricho/blob/main/visualizations/capricho_filter_full_clean11.png">
+</div>
 
 As we can see most of the subjects are about fashion, customs, body, relationships and celebrities. Not much different from when I were a teen. But we've noticed some differences: the celebs are more diverse (non-white) than before, so as customs and relationships (non-heterossexual). Thus, the Magazine take in account heavy subjects such as racism, police violence and sexual offense. So, some is still the same, some have changed and as usual, a lot of contradition. But isn't the world contraditory?
 
 
-## Scripts
-* Conclusion Report: https://github.com/ggnicolau/Project-7-Hospital-Challenge/tree/main/conclusion_report
-* Repository: https://github.com/ggnicolau/Albert_Einstein
-* Python Files: https://github.com/ggnicolau/Albert_Einstein/tree/main/py_files
-* Profiling Report:  https://github.com/ggnicolau/Albert_Einstein/tree/main/Profiling_report
-* Pictures: https://github.com/ggnicolau/Albert_Einstein/tree/main/Pictures
-* Pickle Files: https://github.com/ggnicolau/Albert_Einstein/tree/main/Models_backup
+## Scripts & Files
+* Repository: https://github.com/ggnicolau/Project-8-Capricho
+* Python Files: https://github.com/ggnicolau/Project-8-Capricho/tree/main/py_files
+* Tables:  https://github.com/ggnicolau/Project-8-Capricho/tree/main/tables
+* Visualizations: https://github.com/ggnicolau/Project-8-Capricho/tree/main/visualizations
+* Model: https://github.com/ggnicolau/Project-8-Capricho/tree/main/Models
 
 ## Versioning
 
