@@ -167,7 +167,10 @@ At last we've created a Topic Model using LDA algorithm and generated 30 topics 
 <img src="https://github.com/ggnicolau/Project-8-Capricho/blob/main/visualizations/capricho_filter_full_clean11.png">
 </div>
 
-As we can see most of the subjects are about fashion, customs, body, relationships and celebrities. Not much different from when I were a teen. But we've noticed some differences: the celebs are more diverse (non-white) than before, so as customs and relationships (non-heterossexual). Thus, the Magazine take in account heavy subjects such as racism, police violence and sexual offense. So, some is still the same, some have changed and as usual, a lot of contradition. But isn't the world contraditory?
+As we can see most of the subjects are about fashion, customs, body, relationships and celebrities. Not much different from when I were a teen. But we've noticed some differences: the celebs are more diverse (non-white) than before, so as customs and relationships (non-heterossexual). Thus, the Magazine take in account heavy subjects such as racism, police violence and sexual offense. So, some is still the same, some have changed and as usual, a lot of contradition.
+
+
+**But isn't the world contraditory?**
 
 
 ## Scripts & Files
